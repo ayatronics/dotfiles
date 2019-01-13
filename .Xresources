@@ -1,0 +1,15 @@
+Xft.dpi: 144
+XTerm*background: black
+!XTerm*cjkWidth: true
+XTerm*cursorColor: lightgrey
+XTerm*faceName: Inconsolata
+XTerm*faceNameDoublesize: Migu1M
+XTerm*faceSize: 14
+XTerm*fontDoublesize: true
+XTerm*forcePackedFont: false
+XTerm*foreground: white
+XTerm*geometry: 100x33+530+200
+XTerm*locale: true
+XTerm*rightScrollBar: true
+XTerm*saveLines: 4096
+XTerm*scrollBar: true
