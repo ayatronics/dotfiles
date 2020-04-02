@@ -2,9 +2,10 @@ Xft.dpi: 144
 XTerm*background: black
 !XTerm*cjkWidth: true
 XTerm*cursorColor: lightgrey
-XTerm*faceName: Inconsolata
+XTerm*faceName: Liberation Mono:size=10:antialias=false
 XTerm*faceNameDoublesize: Migu1M
 XTerm*faceSize: 14
+XTerm*font: 7x13
 XTerm*fontDoublesize: true
 XTerm*forcePackedFont: false
 XTerm*foreground: white
