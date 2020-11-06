@@ -29,4 +29,8 @@ alias pacman-update-mirrorlist='sudo reflector --verbose --country Japan --count
 alias fuck='$(thefuck $(fc -ln -1))'
 alias shfmt-google='shfmt -i 2 -ci'
 
+alias ghci='stack ghci'
+alias ghc='stack ghc --'
+alias runghc='stack runghc --'
+
 source /usr/share/git/completion/git-completion.bash
