@@ -63,7 +63,8 @@ start-pulseaudio-x11
 # display
 if [ "$HOSTNAME" = "$HOSTNAME_DESKTOP" ]; then
   xrandr --output HDMI-0 --mode 3840x2160 &
-  xrandr --output HDMI-1 --off &
+  # xrandr --output HDMI-1 --off &
+  xrandr --output HDMI-1 --mode 3840x2160 --same-as HDMI-0 &
 fi
 xrandr --dpi 144 &
 if [ "$HOSTNAME" = "$HOSTNAME_DESKTOP" ]; then
