@@ -92,7 +92,8 @@ myinternetmenu = {
     {"firefox", "firefox"},
     {"chromium", "chromium --force-device-scale-factor=1.5"},
     --   { "chromium", "chromium --incognito },
-    {"slack", "slack"}, {"pidgin", "pidgin"}, {"dropbox", "dropbox"}
+    {"slack", "slack"}, {"discord", "discord"}, {"pidgin", "pidgin"},
+    {"dropbox", "dropbox"}
 }
 
 mycodingwritingmenu = {
